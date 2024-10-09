@@ -2,7 +2,7 @@ package mulai;
 public class Main {
     public static void main(String[] args) {
         int a = 5; 
-        System.out.println("Nilai a: " + a);
+        System.out.println("Nilai a: " +a);
         a += 3;  
         System.out.println("Nilai a setelah penambahan: " + a);
         a -= 2;  
