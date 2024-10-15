@@ -1,6 +1,6 @@
-package B2;
+package mulai;
 
-public class Main {
+public class Day45 {
     public static void main(String[] args) {
         boolean lbsm = 5 >= 6;
         boolean lksm = 5 <= 6;
