@@ -1,6 +1,6 @@
 package mulai;
 
-public class Day48 {
+public class Day49 {
     public static void main(String[] args) {
         boolean cek = false;
         if(cek==true){
