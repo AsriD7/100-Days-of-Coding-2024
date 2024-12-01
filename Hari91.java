@@ -7,7 +7,7 @@ public class Main {
         while(true){
             String a = in.nextLine();
             String b = in.nextLine();
-            if(a.equalsIgnoreCase("i") && b.equalsIgnoreCase("you")){
+            if(a.equalsIgnoreCase("you") && b.equalsIgnoreCase("i")){
                 System.out.println("end");
                 break;
             }else{
