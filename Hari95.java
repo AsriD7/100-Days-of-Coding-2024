@@ -10,7 +10,7 @@ public class Main {
             System.out.println();
         }
         System.out.println();
-        for(int i = a - 1; i>=0; i-- ){
+        for(int i = a - 1; i >= 0; i-- ){
             for (int j = 0; j < 2 * i + 1; j++) {
                 System.out.print("*");
             }
